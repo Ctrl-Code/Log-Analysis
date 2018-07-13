@@ -1,0 +1,14 @@
+Que 1:What are the most popular three articles of all time?
+Sol  :Candidate is jerk, alleges rival - 338647 views
+Sol  :Bears love berries, alleges bear - 253801 views
+Sol  :Bad things gone, say good people - 170098 views
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Que 2:Who are the most popular article authors of all time?
+Sol  :Ursula La Multa - 507594 views
+Sol  :Rudolf von Treppenwitz - 423457 views
+Sol  :Anonymous Contributor - 170098 views
+Sol  :Markoff Chaney - 84557 views
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Que 3:On which days did more than '1%' of requests lead to errors?
+Sol  : Jul 17,2016 - 2.27% errors
+
